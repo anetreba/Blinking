@@ -1,14 +1,14 @@
 # Blinking
 
-##Devices
+## Devices
 
 LAUNCHXL-CC1352R1
 
-##Description
+## Description
 
 Creation of an app that turn a built-in LED on/off at random intervals for a random time from 1 to 10 seconds.
 
-##Requirements and dependencies
+## Requirements and dependencies
 
 You need install:
 
@@ -20,7 +20,7 @@ After installation, CodeComposerStudio will be available for you in/Applications
 After installation, UniFlash will be available for you in/Applications/tidirectory.
 In Resource Explorer, install the latest SDK version for CC1352.
 
-##Building the program
+## Building the program
 
 1. Download/Clone the source code. 
 2. Open CodeComposerStudio.
